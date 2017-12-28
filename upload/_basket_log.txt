@@ -1,0 +1,13 @@
+Array
+(
+    [BITRIX_SM_SALE_UID] => 187090
+    [BX_USER_ID] => f7c6e70edc03a5973543114f639af99d
+    [_ym_uid] => 1513771640665550083
+    [_ga] => GA1.2.430162629.1513771640
+    [PHPSESSID] => 148441b93781a739da17f224f9ecbd56
+    [_ym_isad] => 2
+    [_gid] => GA1.2.1044002249.1514464500
+    [_gat] => 1
+    [_gat_gtag_UA_65593204_3] => 1
+    [_ym_visorc_44533048] => w
+)
